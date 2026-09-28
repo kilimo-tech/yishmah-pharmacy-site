@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://yishmah.kilimo.tech/sitemap.xml
+Sitemap: https://yishmapharmacy.co.ke/sitemap.xml
