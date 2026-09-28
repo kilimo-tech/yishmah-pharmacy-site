@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://yishmah.kilimo.tech/sitemap.xml
